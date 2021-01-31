@@ -1,0 +1,8 @@
+You need to have installed 
+  npm init
+  npm install --save-dev @wdio/cli
+  npm install --save-dev prettier
+  npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/register
+  npm install wdio-docker-service --save-dev
+You need to download the zip folder
+execute using npm run test
