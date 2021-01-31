@@ -1,4 +1,0 @@
-FROM node:12
-ADD . /westwing
-WORKDIR /westwing
-RUN npm i
